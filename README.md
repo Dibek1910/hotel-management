@@ -5,7 +5,11 @@ The application utilizes a file (details.txt) to store the customer records. Eac
 
 The main menu presents the user with options to choose from, and based on the selected option, the corresponding function is called to perform the desired operation. The application provides a user-friendly interface and ensures data integrity by reading and writing customer records to the file.
 
+
+
+
 **Instructions to Run the Code**
+
 To run the code on your local machine, follow these steps:
 
 1.Install a C compiler: Make sure you have a C compiler installed on your machine. For macOS, you can use either gcc or clang.
