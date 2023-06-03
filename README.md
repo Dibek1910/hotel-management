@@ -9,11 +9,17 @@ The main menu presents the user with options to choose from, and based on the se
 To run the code on your local machine, follow these steps:
 
 1.Install a C compiler: Make sure you have a C compiler installed on your machine. For macOS, you can use either gcc or clang.
+
 2.Create a new C file: Open a text editor and create a new file. Copy the code provided into the file.
+
 3.Save the file: Save the file with a .c extension, for example, hotel_management.c.
+
 4.Compile the code: Open a terminal and navigate to the directory where the file is saved. Use the following command to compile the code:  gcc -o hotel hotel.c
+
 5.Run the executable: After successful compilation, use the following command to run the program:  ./hotel
+
 6.Interact with the program: The program will display a menu with options. Use the provided menu options to perform various operations such as booking a room, viewing customer records, deleting customer records, searching for customer records, modifying customer details, and exiting the program.
+
 7.Follow the on-screen instructions: Enter the required information and follow the on-screen instructions to interact with the program and perform the desired operations.
 
 
